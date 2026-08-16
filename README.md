@@ -25,7 +25,7 @@ It introduces a **Two-Stage "Classify-and-Explain" Framework**:
 - `requirements.txt` — Python dependencies required to run the application.
 - `Report_Cotiviti_GenAI.docx` — Written 3-page research report (including APA bibliography).
 - `Presentation_Cotiviti_GenAI.pptx` — Overview slide deck detailing project background, architecture, and strategic alignment.
-- `Presentation_Demo_Video.mp4` — Recorded 5-minute video walkthrough featuring the slide deck and live working POC.
+- `Presentation_Demo_Video.mp4` — in Release; Recorded 5-minute video walkthrough featuring the slide deck and live working POC.
 - `Resume.pdf` — Current resume.
 
 ---
